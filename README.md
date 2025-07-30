@@ -10,7 +10,7 @@ This site was built with **React** and **Tailwind CSS**, featuring a modern and 
 ## Live Demo
 
 Check it out live at:  
-[https://akmal-portfolio.vercel.app](https://akmal-portfolio.vercel.app)
+[https://akmal-portfolio.netlify.app](https://akmal-portfolio.netlify.app)
 
 ## Sections
 
