@@ -1,12 +1,41 @@
-# React + Vite
+# Akmal Munggaran – Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!
+This site was built with **React** and **Tailwind CSS**, featuring a modern and responsive design, aimed to attract recruiters in the fields of:
 
-Currently, two official plugins are available:
+- Data Analyst  
+- Data Engineer  
+- Data Scientist
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
 
-## Expanding the ESLint configuration
+Check it out live at:  
+[https://akmal-portfolio.vercel.app](https://akmal-portfolio.vercel.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Sections
+
+- **Home** – A short, strong opening introduction  
+- **About Me** – Personal background, skills, and contact links  
+- **Experiences** – Work and internship history  
+- **Projects** – Highlighted and relevant projects   
+- **Footer** – Clean closing with credits  
+
+## Tech Stack
+
+- **React JS**  
+- **Tailwind CSS**  
+- **Deployed with Vercel**
+
+## Contact
+
+You can reach me via:
+
+- 📧 **Email**: akmalmunggaran42@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/akmalmunggaran](https://linkedin.com/in/akmalmunggaran)  
+- 🐙 **GitHub**: [github.com/akMALE21](https://github.com/akMALE21)  
+- 📱 **WhatsApp**: +6285156985695  
+- 📷 **Instagram**: [@akmal_munggaran21](https://instagram.com/akmal_munggaran21)
+
+## License
+
+This project is licensed under the **MIT License**.
