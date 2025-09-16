@@ -2,30 +2,31 @@
 
 const projects = [
     {
-        title: 'Lorem ipsum dolor',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        tech: ['Python', 'XGBoost', 'Streamlit'],
-        link: 'https://github.com/akMALE21/Loremipsumdolor',
+        title: 'Most Popular Track 2022 - ETL & BI (2025)',
+        description: 'Developed an ETL pipeline to prepare datasets for analysis and visualization of the most popular track in 2022.',
+        tech: ['Apache Airflow', 'Python', 'Power BI'],
+        link: 'https://github.com/akMALE21/most-popular-tracks-2022',
     },
     {
-        title: 'Lorem ipsum dolor',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        tech: ['Power BI', 'SQL Server', 'Prophet'],
-        link: 'https://github.com/akMALE21/Loremipsumdolor',
+        title: 'Most Popular Track 2022 - ML (2025)',
+        description: 'Clustering tracks into genres using K-Means, stored in PostgreSQL to uncover hidden patterns in music preferences.',
+        tech: ['Python', 'PostgreSQL'],
+        link: 'https://github.com/akMALE21/most-popular-tracks-2022',
     },
     {
-        title: 'Lorem ipsum dolor',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        tech: ['Airflow', 'PostgreSQL', 'Python'],
-        link: 'https://github.com/akMALE21/Loremipsumdolor',
+        title: 'Volleyball Performance Dashboard (2025)',
+        description: 'Interactive Tableau dashboard visualizing team performance, match trends, and stadium locations.',
+        tech: ['Tableau Public', 'Python'],
+        link: 'https://github.com/akMALE21/volleyball-performance-dashboard',
     },
     {
-        title: 'Lorem ipsum dolor',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-        tech: ['Airflow', 'PostgreSQL', 'Python'],
-        link: 'https://github.com/akMALE21/Loremipsumdolor',
+        title: 'Snacktify (2023)',
+        description: 'Mobile application that helps people identify recipes and nutritional content of food by using their smartphone camera.',
+        tech: ['GCP', 'Python', 'FastAPI'],
+        link: 'https://github.com/Snacktify',
     },
 ];
+
 
 const Projects = () => {
     return (

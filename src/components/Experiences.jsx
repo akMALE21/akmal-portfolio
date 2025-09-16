@@ -4,10 +4,10 @@ const experiences = [
         company: "PT. Enseval Putera Megatrading Tbk",
         duration: "Sep 2024 – now",
         description: `
-    - Developed and optimized ETL processes using Prefect in Python, managing over 10+ ETL pipelines to ensure efficient data extraction and transformation.
-    - Performed data processing and built data extraction procedures using Oracle, MSSQL, PostgreSQL, and MySQL, improving the efficiency of data retrieval processes.
-    - Conducted market basket analysis using the Apriori Algorithm to optimize warehouse storage layouts based on purchasing patterns and performed simulation using AnyLogic.
-    - Prepared over 20 data documentation files using metadata tools, simplifying future data validation and tracking processes.
+            - Developed and optimized ETL processes using Prefect in Python, managing over 20+ ETL pipelines to ensure efficient data extraction and transformation.
+            - Perform data processing and build data extraction procedures using Oracle, Mssql, Postgresql, and Mysql, improving the efficiency of data retrieval processes.
+            - Implemented MBA using Apriori Algorithm to optimize warehouse storage layouts and utilized Prophet and XGBoost models for inventory forecasting
+            - Prepared over 20 data documentation files using metadata tools, simplifying future data validation and tracking processes.
         `,
     },
     {
@@ -15,9 +15,9 @@ const experiences = [
         company: "PT. Oviatech Prima Integra",
         duration: "Jul 2023 – Feb 2024",
         description: `
-    - Involved in the development of 5 BI dashboards for a banking project using Tableau.
-    - Built over 10 data sets leveraging ETL processes for dashboard development using Pentaho Data Integration.
-    - Contributed in data preparation for the data sources.
+            - Involved in the development of 5 BI dashboards for a banking project using Tableau.
+            - Built over 10 data sets leveraging ETL processes for dashboard development using Pentaho Data Integration.
+            - Contributed in data preparation for the data sources.
         `,
     },
 ];
